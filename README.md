@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cong Nha</h1>
+<h1 align="center">Xin chào 👋, Tôi tên là Thái Công Nhạ</h1>
 <h3 align="center">Hiện tôi đang là sinh viên trường Đại học Trà Vinh ngành Công nghệ thông tin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nhatc29&label=Profile%20views&color=0e75b6&style=flat" alt="nhatc29" /> </p>
